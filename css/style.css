@@ -220,12 +220,12 @@
 .step-img-box::after {
   width: 45%;
   padding-bottom: 45%;
-  background-color: #fae5d3;
+  background-color: #e7ae7b;
   z-index: -1;
 }
 
 .step-img {
-  width: 35%;
+  width: 55%;
   /* z-index: 10; */
 }
 
@@ -647,8 +647,5 @@
 .footer-link:active {
   color: #555;
 }
-
-
-
 
 
